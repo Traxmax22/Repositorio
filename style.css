@@ -6,3 +6,13 @@
     background-color:rgb(50, 50, 63);
     color: #fff;
 }
+
+.dark{
+  background-color: rgb(45, 69, 70);
+  color: #fff;
+}
+
+.enlace-oscuro{
+  color: #fff;
+  text-decoration: none;
+}
